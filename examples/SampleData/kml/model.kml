@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<open>1</open>
+<visibility>1</visibility>
+<name><![CDATA[test]]></name>
+<Placemark>
+<name><![CDATA[undefined]]></name>
+<description><![CDATA[]]></description>
+<Model>
+<Location>
+<gx:MultiTrack>
+<gx:interpolate>1</gx:interpolate>
+<gx:Track>
+<altitudeMode>absolute</altitudeMode>
+<when>2016-05-10T08:55:10.52800000000570435Z</when>
+<gx:coord>118.54829881630357 24.802898822941266 59.621359715389794</gx:coord>
+<when>2016-05-10T08:55:13.4617916505085304Z</when>
+<gx:coord>118.54785398819347 24.803238902245322 60.621821086377864</gx:coord>
+<when>2016-05-10T08:55:16.37397817126475275Z</when>
+<gx:coord>118.54740781850754 24.803571474903592 60.50922280195892</gx:coord>
+</gx:Track>
+</gx:MultiTrack>
+</Location>
+<Orientation>
+<heading>270</heading>
+<tilt>0</tilt>
+<roll>0</roll>
+</Orientation>
+<Scale>
+<x>1</x>
+<y>1</y>
+<z>1</z>
+</Scale>
+<Link>
+<href>../models/Cesium_Ground.gltf</href>
+</Link>
+</Model>
+</Placemark>
+</Document>
+</kml>

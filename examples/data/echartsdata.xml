@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2014-01-30">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer"></attribute>
+    </attributes>
+    <nodes>
+       <node id="0" label="首尔金浦">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-266.82776" y="299.6904" z="0.0"></viz:position>
+        <viz:color r="235" g="81" b="72"></viz:color>
+      </node>
+      
+     <node id="1" label="济州岛">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="25"></viz:size>
+        <viz:position x="-266.82776" y="299.6904" z="0.0"></viz:position>
+        <viz:color r="235" g="81" b="72"></viz:color>
+      </node>
+         	
+      <node id="2" label="北海道札幌">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="25"></viz:size>
+        <viz:position x="-212.76357" y="245.29176" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      
+      <node id="3" label="东京羽田">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-242.82404" y="235.26283" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      
+      <node id="4" label="日本福冈">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="25"></viz:size>
+        <viz:position x="-379.30386" y="429.06424" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      
+      
+      <node id="5" label="墨尔本">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-417.26337" y="406.03506" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="6" label="悉尼">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="25"></viz:size>
+        <viz:position x="-332.6012" y="485.16974" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      
+      <node id="7" label="台北桃园">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="25"></viz:size>
+        <viz:position x="-382.69568" y="475.09113" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="8" label="香港">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-320.384" y="387.17325" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      
+      <node id="9" label="新德里">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="15"></viz:size>
+        <viz:position x="-344.39832" y="451.16772" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="10" label="孟买">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15"></viz:size>
+        <viz:position x="-89.34107" y="234.56128" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      
+      <node id="11" label="胡志明市">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="15"></viz:size>
+        <viz:position x="-87.93029" y="-6.8120565" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="12" label="河内">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="15"></viz:size>
+        <viz:position x="-339.77908" y="-184.69139" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      
+      
+      <node id="13" label="北京首都">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-194.31313" y="178.55301" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="14" label="上海浦东">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-158.05168" y="201.99768" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      
+      <node id="15" label="印尼泗水">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="25"></viz:size>
+        <viz:position x="-127.701546" y="242.55057" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="16" label="雅加达">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="25"></viz:size>
+        <viz:position x="-385.2226" y="-393.5572" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      
+      <node id="17" label="日本冲绳">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="15"></viz:size>
+        <viz:position x="-516.55884" y="-393.98975" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      
+      <node id="18" label="伦敦希思罗">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-464.79382" y="-493.57944" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      
+      <node id="19" label="洛杉矶">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-515.1624" y="-456.9891" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      
+      <node id="20" label="首尔仁川">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-408.12122" y="-464.5048" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="21" label="樟宜">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-456.44113" y="-425.13303" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="22" label="旧金山">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-459.1107" y="-362.5133" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="23" label="卡尔加里">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15"></viz:size>
+        <viz:position x="-313.42786" y="-289.44803" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="24" label="马德里">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="25"></viz:size>
+        <viz:position x="4.6313396" y="-273.8517" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="25" label="埃尔塞">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="15"></viz:size>
+        <viz:position x="82.80825" y="-203.1144" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="26" label="东京成田">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="25"></viz:size>
+        <viz:position x="78.64646" y="-31.512747" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      
+      <node id="27" label="肯尼迪">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-81.46074" y="-204.20204" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      
+      <node id="28" label="曼谷">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="25"></viz:size>
+        <viz:position x="-225.73984" y="82.41631" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="29" label="温哥华">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-385.6842" y="-20.206686" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="30" label="戴高乐">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="31" label="迪拜">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="32" label="奥克兰">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="15"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="33" label="吉隆坡">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="25"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="34" label="法兰克福">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="35" label="多伦多">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="15"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="36" label="达拉斯">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="15"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="37" label="阿姆斯特丹">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="38" label="阿图罗贝尼特斯">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="15"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="39" label="纽瓦克">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="40" label="利马">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="15"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="41" label="菲乌米奇诺">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="15"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="42" label="阿布扎比">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="20"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="43" label="华盛顿">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="44" label="多哈">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="45" label="广州白云">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="25"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="46" label="约翰内斯堡">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="15"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="47" label="休斯顿">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="48" label="亚特兰大">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="49" label="布里斯班">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="50" label="西雅图">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="25"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="51" label="米兰">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="25"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="52" label="辛辛那提">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="53" label="巴林">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="54" label="特拉维夫">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="55" label="关西">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="56" label="马尼拉">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="15"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="57" label="底特律">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="25"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="58" label="圣保罗">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="59" label="成都">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="40"></viz:size>
+        <viz:position x="-403.92447" y="-197.69823" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+    </nodes>
+   <edges>
+      <edge id="0" source="0" target="1">
+        <attvalues></attvalues>
+      </edge>      
+      <edge id="1" source="2" target="3" weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="2" source="3" target="4" weight="10.0">
+        <attvalues></attvalues>
+      </edge>          
+      <edge id="3" source="5" target="6" weight="6.0">
+        <attvalues></attvalues>
+      </edge>     
+      <edge id="4" source="7" target="8">
+        <attvalues></attvalues>
+      </edge>
+      
+      <edge id="5" source="9" target="10">
+        <attvalues></attvalues>
+      </edge>
+      
+      
+      <edge id="6" source="11" target="12">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="7" source="13" target="14">
+        <attvalues></attvalues>
+      </edge>
+      
+      <edge id="8" source="15" target="16" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="9" source="4" target="17">
+        <attvalues></attvalues>
+      </edge>
+      
+      <edge id="10" source="8" target="19" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="11" source="6" target="19" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="12" source="6" target="21" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="13" source="8" target="18" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="14" source="18" target="7" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="15" source="18" target="21" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="16" source="19" target="6" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="17" source="19" target="8" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="18" source="19" target="14" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="19" source="19" target="20" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="20" source="21" target="18" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="21" source="23" target="14" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="22" source="24" target="25" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="23" source="25" target="26" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="24" source="27" target="21" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="25" source="28" target="18" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="26" source="29" target="8" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="27" source="22" target="7" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="28" source="29" target="8" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="29" source="8" target="22" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="30" source="14" target="30" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="31" source="20" target="27" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="32" source="5" target="31" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="33" source="8" target="27" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="34" source="19" target="32" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="35" source="6" target="31" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="36" source="31" target="5" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="37" source="31" target="6" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="38" source="27" target="8" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="39" source="33" target="28" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="40" source="19" target="5" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="41" source="3" target="30" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="42" source="31" target="13" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="43" source="21" target="34" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="44" source="25" target="24" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="45" source="5" target="19" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="46" source="14" target="18" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="47" source="22" target="14" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="48" source="27" target="7" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="49" source="14" target="32" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="50" source="7" target="27" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="51" source="20" target="18" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="52" source="18" target="33" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="53" source="13" target="32" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="54" source="8" target="25" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="55" source="36" target="26" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="56" source="21" target="37" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="57" source="38" target="24" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="58" source="39" target="10" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="59" source="24" target="40" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="60" source="21" target="41" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="61" source="42" target="6" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="62" source="43" target="26" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="63" source="5" target="42" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="64" source="44" target="27" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="65" source="45" target="27" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="66" source="8" target="46" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="67" source="47" target="26" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="68" source="27" target="48" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="69" source="27" target="49" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="70" source="50" target="7" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="71" source="41" target="25" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="72" source="13" target="43" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="73" source="49" target="19" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="74" source="45" target="30" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="75" source="51" target="26" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="76" source="8" target="13" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="77" source="14" target="13" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="78" source="6" target="13" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="79" source="29" target="7" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="80" source="52" target="53" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="81" source="54" target="39" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="82" source="19" target="55" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="83" source="56" target="22" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="84" source="57" target="13" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="85" source="34" target="58" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="86" source="59" target="13" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="87" source="59" target="14" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

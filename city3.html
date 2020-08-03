@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>水积警情模拟</title>
+	<link href="Build/Cesium/Widgets/widgets.css" rel="stylesheet">
+	<link href="examples/css/utils.css" rel="stylesheet">
+	<link href="examples/css/pretty.css" rel="stylesheet">
+	<link href="examples/js/layui-v2.5.5/css/layui.css" rel="stylesheet">
+	<script src="examples/js/config.js"></script>
+	<script src="examples/js/heatmap.min.js"></script>
+	<script src="examples/js/dat.gui.min.js"></script>
+	<script src="examples/js/layui-v2.5.5/layui.all.js"></script>
+	<script src="examples/js/jquery.min.js"></script>
+	<script src="Build/Cesium/Cesium.js"></script>
+	<!-- <script src="examples/js/libgif.js"></script> -->
+	<!-- <script src="three.js"></script> -->
+	<style>
+		body {
+			height: 100%;
+			width: 100%;
+			margin: 0;
+			overflow: hidden;
+			padding: 0;
+			background: #000;
+		}
+
+		.dg.main.a {
+			position: absolute;
+			left: 2px;
+		}
+
+		.layui-layer {
+			background-color: #222c;
+			box-shadow: inset 0 0 15px 4px #00bcd4;
+		}
+	</style>
+</head>
+
+<body>
+	<div id="cesiumContainer"></div>
+	<div class="heatmap" style="overflow: hidden; width: 840px;height: 400px;">
+		<div class="heatmap-canvas" width="50%" height="25%">
+		</div>
+	</div>
+	<video id="trailer" style="display:none" autoplay loop crossorigin controls>
+		<source src="examples/data/cs.mp4" type="video/mp4">
+	</video>
+	<!-- <video id="trailer" style="display:none" autoplay playsInline webkit-playsinline controls>
+		<source src="rtmp://11.16.39.40:8800//live/11010805001320005235" type="rtmp/flv">
+	</video> -->
+	<script src="city3.js"></script>
+	<script>
+		alert('适配大屏, 请将浏览器调整成3840 * 1080 px !!!')
+	</script>
+	<style>
+		#navi {
+			z-index: 999999;
+			width: 200px !important;
+			position: absolute;
+			left: 36%;
+			top: 220px;
+		}
+
+		#navi2 {
+			z-index: 999999;
+			width: 200px !important;
+			position: absolute;
+			left: 47%;
+			top: 220px;
+
+		}
+
+		#navi3 {
+			z-index: 999999;
+			width: 200px !important;
+			position: absolute;
+			left: 58%;
+			top: 220px;
+		}
+
+		#navi3:hover {
+			color: white;
+		}
+
+		.close-button {
+			display: none;
+		}
+
+		.dg li.title {
+			min-height: 30px;
+			color: #00bcd4;
+			box-shadow: inset 1px 1px 6px 3px;
+		}
+	</style>
+</body>
+
+</html>
